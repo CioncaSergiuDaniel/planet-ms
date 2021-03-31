@@ -40,7 +40,7 @@
 		<commons-lang3.version>3.9</commons-lang3.version>
 		<jackson-annotations.version>2.10.3</jackson-annotations.version>
 		<validation-api.version>2.0.1.Final</validation-api.version>
-		<guava.version>28.2-jre</guava.version>
+		<guava.version>29.0-jre</guava.version>
 		<achilles-junit.version>6.0.4</achilles-junit.version>
 		<disruptor.version>3.4.2</disruptor.version>
 		<metrics-core.version>3.2.6</metrics-core.version>
